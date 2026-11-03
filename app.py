@@ -1,6 +1,5 @@
 ﻿def initialiser():
-    """Initialise le système."""
-    print("Démarrage du système...")
+    print("Mode complet activé.")
 
 
 if __name__ == "__main__":
